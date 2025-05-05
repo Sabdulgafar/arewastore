@@ -1,0 +1,18 @@
+/* general tweaks */
+body{
+  background-color: #E1EEBC !important;
+}
+a{
+  
+}
+
+/* the navbar tweaks */
+.navbar{
+  background-color: #328E6E;
+  width: 100vw;
+  margin-left: -15px;
+  height: 75px;
+}
+.navbar a{
+  color: white;
+}
